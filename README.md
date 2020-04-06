@@ -4,7 +4,7 @@
 Fresnel Effect with variance,
 Viewport based Noise Effect,
 Shifting between 2 HDR Emissive Colors,
-Dissolve Effect with custom noise and triplanar mapping.
+Dissolve Effect with custom noise (credits to Stinging Eyes) and triplanar mapping.
 (help using Brackeys Tutorials)
 
 ## Mesh Generation
